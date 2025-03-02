@@ -2,6 +2,6 @@ new-page: true
 tags: top
 
 This is the second scene that Jason added to test "Dendry-starter-pack". From this point, you can add
-further scenes and choices to flesh out your game.
+further scenes and choices to flesh out your game... assuming we can get Github Actions to behave.
 
 - @one: Go to Scene One
