@@ -3,6 +3,6 @@ new-page: true
 tags: top
 
 This is the first scene of "Dendry-starter-pack". From this point, you can add
-further scenes and choices to flesh out your game.
+further scenes and choices to flesh out your game...
 
 - @two: Go to Scene Two
